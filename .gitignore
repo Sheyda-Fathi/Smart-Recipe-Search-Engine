@@ -17,13 +17,8 @@ data/*.parquet
 # Downloaded images
 data/images/
 
-# Generated datasets
-data/recipes_clean.json
-data/recipes_images.json
-
 # Generated cache
 cache/index.pkl
-cache/vocabulary.json
 
 # OS
 .DS_Store
