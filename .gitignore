@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Raw datasets
+data/*.csv
+data/*.parquet
+
+# Downloaded images
+data/images/
+
+# Generated datasets
+data/recipes_clean.json
+data/recipes_images.json
+
+# Generated cache
+cache/index.pkl
+cache/vocabulary.json
+
+# OS
+.DS_Store
+Thumbs.db
